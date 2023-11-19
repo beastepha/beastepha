@@ -1,6 +1,7 @@
-<h3 align="left">Hey 👋 What's up?</h3>
+<h1>
+  <img style="width: 50px; heigth: 50px; display: inline;" src="https://media2.giphy.com/media/OFiwdqgkDEJ7Qs8z0d/giphy.gif?cid=6c09b952e1mztp8vslyjm6y49briewor66f2ze44oa9mgjgl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">  Hey! What's up?
+</h1>
 
-###
 
 <p align="left">My name is Stephanie and I'm a tech student learning to develop systems and web pages.</p>
 
@@ -15,6 +16,8 @@
 ###
 
 <h2 align="left">I code with</h2>
+
+
 
 ###
 
