@@ -1,14 +1,27 @@
-<h1 align="center">Hi 👋, I'm Stephanie</h1>
-<h3 align="center">I'm a tech student.</h3>
+<h3 align="left">Hey 👋 What's up?</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beastepha&label=Profile%20views&color=0e75b6&style=flat" alt="beastepha" /> </p>
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/beastephasm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beastephasm" height="30" width="40" /></a>
-</p>
+<p align="left">My name is Stephanie and I'm a tech student learning to develop systems and web pages.</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beastepha&" alt="beastepha" /></p>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 1997<br>📚 I'm currently learning javascript<br>🎯 Goals: to become great</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
