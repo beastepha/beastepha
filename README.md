@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1997<br>📚 I'm currently learning javascript<br>🎯 Goals: to become great</p>
+<p align="left">✨ Creating bugs since 1997<br>📚 Systems Analysis and Development Student<br> I'm currently learning JavaScript with a focus on backend<br>🎯 Goals: Become a great backend development</p>
 
 ###
 
